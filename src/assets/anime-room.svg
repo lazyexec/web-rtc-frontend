@@ -1,0 +1,27 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Anime stream scene">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1f3c"/>
+      <stop offset="55%" stop-color="#2e376a"/>
+      <stop offset="100%" stop-color="#4f5ca8"/>
+    </linearGradient>
+    <linearGradient id="window" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9ad9ff"/>
+      <stop offset="100%" stop-color="#7aa6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#sky)"/>
+  <rect x="90" y="80" width="560" height="430" rx="20" fill="url(#window)" opacity="0.9"/>
+  <rect x="112" y="102" width="516" height="386" rx="12" fill="#cde9ff" opacity="0.4"/>
+  <circle cx="960" cy="320" r="180" fill="#ffd8c4"/>
+  <path d="M784 360c20-130 116-214 206-214 102 0 182 86 200 208-44-26-74-30-120-12-45 18-88 18-130-4-57-29-104-19-156 22z" fill="#1f2142"/>
+  <ellipse cx="900" cy="340" rx="30" ry="18" fill="#fff"/>
+  <ellipse cx="1036" cy="340" rx="30" ry="18" fill="#fff"/>
+  <circle cx="900" cy="342" r="11" fill="#232045"/>
+  <circle cx="1036" cy="342" r="11" fill="#232045"/>
+  <path d="M925 410c28 22 78 22 106 0" stroke="#ad5566" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <rect x="0" y="560" width="1280" height="160" fill="#141626"/>
+  <rect x="150" y="520" width="980" height="50" rx="12" fill="#212544"/>
+  <circle cx="220" cy="545" r="14" fill="#ff7f91"/>
+  <rect x="260" y="536" width="220" height="18" rx="8" fill="#6f82de"/>
+</svg>
